@@ -3,7 +3,7 @@ PPI TwitterBootstrap Module
 
 [@php]:         http://php.net/                         "PHP: Hypertext Preprocessor"
 [@ppi]:         http://ppi.io/                          "PPI Framework - The PHP Meta Framework!"
-[@boostrap]:    http://twitter.github.io/bootstrap/     "Sleek, intuitive, and powerful front-end framework for faster and easier web development"
+[@bootstrap]:   http://twitter.github.io/bootstrap/     "Sleek, intuitive, and powerful front-end framework for faster and easier web development"
 
 [Twitter Boostrap][@bootstrap] module for [PPI2][@ppi].
 
