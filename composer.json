@@ -1,0 +1,24 @@
+{
+    "name": "ppi/twitter-bootstrap-module",
+    "description": "PPI integration with Bootstrap, the sleek, intuitive, and powerful front-end framework for faster and easier web development from Twitter.",
+    "homepage": "https://github.com/ppi/ppi-twitter-bootstrap-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vítor Brandão",
+            "email": "vitor@ppi.io"
+        }
+    ],
+    "support": {
+        "irc": "irc://irc.freenode.org/ppi",
+        "issues": "https://github.com/ppi/ppi-twitter-bootstrap-module/issues"
+    },
+    "require": {
+        "ppi/framework": "dev-2.1-noiselabs"
+    },
+    "autoload": {
+        "psr-0": { "PPI\\TwitterBootstrapModule": "" }
+    },
+    "target-dir": "PPI/TwitterBootstrapModule",
+    "minimum-stability": "dev"
+}
