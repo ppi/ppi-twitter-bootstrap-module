@@ -14,7 +14,7 @@
         "issues": "https://github.com/ppi/ppi-twitter-bootstrap-module/issues"
     },
     "require": {
-        "ppi/framework": "dev-2.1-noiselabs"
+        "ppi/framework": "dev-develop"
     },
     "autoload": {
         "psr-0": { "PPI\\TwitterBootstrapModule": "" }
