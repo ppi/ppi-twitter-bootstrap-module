@@ -61,7 +61,7 @@ Authors
 -------
 
 * Vítor Brandão - <vitor@ppi.io> ~ [twitter.com/noiselabs](http://twitter.com/noiselabs)
-* 
+
 See also the list of [contributors](https://github.com/ppi/ppi-twitter-bootstrap-module/contributors) who participated in this project.
 
 Submitting bugs and feature requests
