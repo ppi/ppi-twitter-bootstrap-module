@@ -12,7 +12,7 @@ PPI TwitterBootstrap Module
 Twitter Bootstrap
 -----------------
 
-<img src="http://media02.hongkiat.com/twitter-bootstrap/twitter-bootstrap.jpg" height="100" />
+<img src="http://media02.hongkiat.com/twitter-bootstrap/twitter-bootstrap.jpg" height="100"/>
 
 > Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
 >
